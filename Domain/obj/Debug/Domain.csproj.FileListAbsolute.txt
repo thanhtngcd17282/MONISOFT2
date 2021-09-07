@@ -1,0 +1,9 @@
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\bin\Debug\Domain.dll
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\bin\Debug\Domain.pdb
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\bin\Debug\DataAccess.dll
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\bin\Debug\DataAccess.pdb
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\obj\Debug\Domain.csproj.CopyComplete
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\obj\Debug\Domain.dll
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\Domain\obj\Debug\Domain.pdb

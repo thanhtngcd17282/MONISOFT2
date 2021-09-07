@@ -1,0 +1,6 @@
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\DataAccess\bin\Debug\DataAccess.dll
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\DataAccess\bin\Debug\DataAccess.pdb
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\DataAccess\obj\Debug\DataAccess.dll
+D:\31. VS proj\12. BUILDSOFTWARE(STIC)\Monisoft 04.070821\DataAccess\obj\Debug\DataAccess.pdb
